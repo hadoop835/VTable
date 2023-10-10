@@ -15,7 +15,7 @@ importers:
       '@types/react': ^18.0.0
       '@types/react-dom': ^18.0.0
       '@visactor/vchart': 1.4.1
-      '@visactor/vtable': workspace:*
+      '@visactor/vtable': workspace:0.12.0-alpha.11
       '@vitejs/plugin-react': 3.1.0
       axios: ^1.4.0
       chalk: ^3.0.0
@@ -3007,7 +3007,7 @@ packages:
       '@visactor/vgrammar-util': 0.7.6
       '@visactor/vrender': 0.15.5
       '@visactor/vrender-components': 0.15.5
-      '@visactor/vscale': 0.16.1
+      '@visactor/vscale': 0.16.0
       '@visactor/vutils': 0.16.1
 
   /@visactor/vgrammar-hierarchy/0.7.6:
@@ -3045,7 +3045,7 @@ packages:
       '@visactor/vgrammar-core': 0.7.6
       '@visactor/vgrammar-util': 0.7.6
       '@visactor/vrender': 0.15.5
-      '@visactor/vscale': 0.16.1
+      '@visactor/vscale': 0.16.0
       '@visactor/vutils': 0.16.1
 
   /@visactor/vgrammar-wordcloud/0.7.6:
@@ -3060,7 +3060,7 @@ packages:
     resolution: {integrity: sha512-213rYkkcywS7yEqIY89oyb+oWBZZrpG5+z++CFY72yrd3Xlors9fDE7GE+RrBeyZ7LNddaziV276LqMNUTuGfw==}
     dependencies:
       '@visactor/vrender': 0.15.5
-      '@visactor/vscale': 0.16.1
+      '@visactor/vscale': 0.16.0
       '@visactor/vutils': 0.16.1
       inversify: 6.0.1
 
@@ -3118,7 +3118,6 @@ packages:
     resolution: {integrity: sha512-WssJ7170st7d5NaloL2syVs4npZvjzYQfAY05rfYVVJ5Zqt2Bpo3edV41jkbmMrdpVU9Mt0XoZqhJQrOI2U8PQ==}
     dependencies:
       '@visactor/vutils': 0.16.0
-    dev: false
 
   /@visactor/vscale/0.16.1:
     resolution: {integrity: sha512-/+6Fyi0dvvYMAxLgDLamY6zIV9i2zzGw2MOiOeyRiL+uZLTxmLc5MIl7SjQlcgdMiFBRh2IJ7qU99Lv8Bl7D1g==}
@@ -3154,7 +3153,6 @@ packages:
       '@turf/helpers': 6.5.0
       '@turf/invariant': 6.5.0
       eventemitter3: 4.0.7
-    dev: false
 
   /@visactor/vutils/0.16.1:
     resolution: {integrity: sha512-hYBwQO/sWr2v5EfszxKHYvWVDZYDsn0WSYSsP0okiwYIrz3Pa5eFrNzF3FC2/6P23pT8IPTG+ca/5/ECU3TP6g==}
